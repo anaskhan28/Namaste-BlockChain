@@ -1,9 +1,10 @@
 plugins:
   - jekyll-relative-links
+  theme: Architect
 relative_links:
   enabled: true
   collections: true
-  theme: Architect
+  
 include:
   - CONTRIBUTING.md
   - README.md
